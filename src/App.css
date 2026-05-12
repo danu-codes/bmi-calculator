@@ -33,7 +33,7 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   border-radius: 20px 0 0 20px;
-  background-image: url("public/bgimage.png");
+  background-image: url("/bgimage.png");
 }
 /* Data Section */
 .data{
