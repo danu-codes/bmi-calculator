@@ -21,7 +21,7 @@ function App() {
          else if(bmiValue>=18.5 && bmiValue<24.9){
           setBMIStatus("Healthy Weight");
          }
-         else if(bmiValue>=25 && bmiValue<29.9){
+         else if(bmiValue>=25 && bmiValue<=29.9){
           setBMIStatus("Overweight");
          }
          else{
