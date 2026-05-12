@@ -27,6 +27,7 @@ It allows users to enter height and weight to calculate their BMI and display he
 ## 📸 UI Preview
 
 > Add screenshot here (optional)
+<img width="1918" height="857" alt="image" src="https://github.com/user-attachments/assets/f492c85c-2423-4e5a-afe4-4165343b2c2f" />
 
 ---
 
