@@ -15,6 +15,9 @@ It allows users to enter height and weight to calculate their BMI and display he
 
 ---
 
+## 🌐 Live Demo
+👉 Try it here: https://danu-codes.github.io/bmi-calculator/
+
 ## 🛠️ Tech Stack
 
 - React.js (Vite)
